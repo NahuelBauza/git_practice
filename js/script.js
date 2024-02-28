@@ -1,1 +1,4 @@
-var num = 1 
+function saludo()
+{
+  alert ("¡Hola!");
+}
